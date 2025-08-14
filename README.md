@@ -4,7 +4,10 @@ A Django REST Framework API for managing job postings, applications, companies, 
 
 # Group Members:
 -
-
+-
+-
+-
+-
 
 ## Overview
 
@@ -19,11 +22,12 @@ To be built using **Django** and **Django REST Framework**, following a modular 
 ---
 
 ## Features
+- **User Authentication** – Register, login, and manage user accounts.
 - **Company Management** – Create and manage company profiles.
 - **Job Posting** – Add, update, delete, and list job openings.
 - **Application Tracking** – Submit and track job applications.
 - **Interview Scheduling** – Manage interview dates and details.
-- **Health Check Endpoint** – Verify API status.
+-
 
 ---
 
